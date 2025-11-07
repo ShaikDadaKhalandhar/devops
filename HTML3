@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Webpage</title>
+</head>
+<body>
+    <h1>Namaste Bhoomi 🌏</h1>
+    <p>Welcome to my first HTML page!</p>
+
+    <h2>About</h2>
+    <p>This is a simple webpage created using basic HTML tags.</p>
+
+    <h3>Contact</h3>
+    <p>You can reach me at <a href="mailto:example@email.com">example@email.com</a></p>
+
+    <hr>
+
+    <h3>List Example</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <p><b>Thank you for visiting!</b></p>
+</body>
+</html>
